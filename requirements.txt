@@ -1,0 +1,5 @@
+vk_api==11.9.9
+scikit-image==0.22.0
+scipy==1.13.0
+numpy==1.26.4
+Pillow==10.1.0

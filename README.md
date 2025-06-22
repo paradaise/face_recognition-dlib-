@@ -14,6 +14,7 @@
 Пример исходных и аннотированных изображений:
 
 ### Ответ если пользотваель отправил кол-во фото != 2
+
 <p align="center">
 <img src="md_photos/image2.jpg" width="100%"/>
 </p>
@@ -87,3 +88,5 @@ python main.py
 - numpy==1.26.4
 - Pillow==10.1.0
 - dlib (через dlib.whl)
+
+## GIVE A ACHIVE FOR COMPARE COMMIT BLESS!!
